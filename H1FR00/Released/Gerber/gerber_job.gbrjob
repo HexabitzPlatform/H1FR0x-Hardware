@@ -1,0 +1,13 @@
+G04 Gerber job file.*
+%TF.FileFunction,JobInfo*%
+%TF.GenerationSoftware,Autodesk,EAGLE,8.6.3*%
+%TF.CreationDate,2018-03-24T11:36:11Z*%
+%TF.Part,Single*%
+%MOMM*%
+%TJ.B_Owner,Muhammad Awais <mawaist@gmail.com>*%
+%TJ.B_ID,H1FR0*%
+%TJ.B_LayerNum,4*%
+%TJ.B_Thickness,1.600000*%
+%TJ.B_Size_X,34.640000*%
+%TJ.B_Size_Y,30.000000*%
+M02*
