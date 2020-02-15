@@ -1,0 +1,16 @@
+Total Thickness 1.6 mm
+---------------------------------------------------------
+
+copper_top_l1.gbr : Top Conductor - Copper: Thickness 0.035 mm
+
+       Dielectric - FR-4: Thickness 0.175 mm
+
+copper_inner_l2.gbr : GND Plane   - Copper: Thickness 0.035 mm
+
+       Dielectric - FR-4: Thickness 1.11 mm
+
+copper_inner_l3.gbr : VDD Plane - Copper: Thickness 0.035 mm
+
+       Dielectric - FR-4: Thickness 0.175 mm
+
+copper_bottom_l4.gbr : Bottom Conductor - Copper: Thickness 0.035 mm
