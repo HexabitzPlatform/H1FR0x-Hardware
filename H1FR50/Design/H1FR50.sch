@@ -1473,7 +1473,11 @@ In this library the device names are the same as the pin names of the symbols, t
 </symbol>
 </symbols>
 <devicesets>
+<<<<<<< HEAD
 <deviceset name="TESEO-LIV3F" urn="urn:adsk.eagle:component:27231893/2" prefix="IC" library_version="36">
+=======
+<deviceset name="TESEO-LIV3F" urn="urn:adsk.eagle:component:27231893/1" prefix="IC" library_version="24">
+>>>>>>> d63e6bf4448b73a8991ab82a7cdb1e814e259296
 <description>&lt;b&gt;GPS Modules Tiny GNSS module&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="TESEO-LIV3F" x="0" y="0"/>
@@ -1509,13 +1513,21 @@ In this library the device names are the same as the pin names of the symbols, t
 <attribute name="MF" value="STMicroelectronics"/>
 <attribute name="MP" value="TESEO-LIV3F"/>
 <attribute name="PACKAGE" value="SMD-18 STMicroelectronics"/>
+<<<<<<< HEAD
 <attribute name="PURCHASE-URL" value="https://octopart.com/teseo-liv3f-stmicroelectronics-84762432?r=sp"/>
+=======
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/TESEO-LIV3F/?ref=eda"/>
+>>>>>>> d63e6bf4448b73a8991ab82a7cdb1e814e259296
 </technology>
 </technologies>
 </device>
 </devices>
 </deviceset>
+<<<<<<< HEAD
 <deviceset name="BGA824N6" urn="urn:adsk.eagle:component:27266194/3" library_version="36">
+=======
+<deviceset name="BGA824N6" urn="urn:adsk.eagle:component:27266194/2" library_version="33">
+>>>>>>> d63e6bf4448b73a8991ab82a7cdb1e814e259296
 <description>&lt;b&gt;BGA824N6 1.5 to 3.3 V 0.55 dB SMT Front End Low Noise Amplifier - TSNP-6-2&lt;b/&gt;</description>
 <gates>
 <gate name="G$1" symbol="BGA824N6" x="0" y="0"/>
@@ -1535,16 +1547,26 @@ In this library the device names are the same as the pin names of the symbols, t
 </package3dinstances>
 <technologies>
 <technology name="">
+<<<<<<< HEAD
 <attribute name="DESCRIPTION" value="GPS Amp Single Low Noise Amplifier 1615MHz 3.3V 6-Pin TSNP T/R" constant="no"/>
 <attribute name="MFN" value="Infineon" constant="no"/>
 <attribute name="MPN" value="BGA824N6E6327XTSA1" constant="no"/>
 <attribute name="OCTO_URL" value="https://octopart.com/bga824n6e6327xtsa1-infineon-33343805?r=sp" constant="no"/>
+=======
+<attribute name="MFN" value="Infineon" constant="no"/>
+<attribute name="MPN" value="BGA824N6E6327XTSA1" constant="no"/>
+<attribute name="OCTO_URL" value="https://octopart.com/search?q=BGA824N6&amp;currency=USD&amp;specs=0" constant="no"/>
+>>>>>>> d63e6bf4448b73a8991ab82a7cdb1e814e259296
 </technology>
 </technologies>
 </device>
 </devices>
 </deviceset>
+<<<<<<< HEAD
 <deviceset name="B39162B4327P810" urn="urn:adsk.eagle:component:27266306/4" prefix="FL" library_version="36">
+=======
+<deviceset name="B39162B4327P810" urn="urn:adsk.eagle:component:27266306/3" prefix="FL" library_version="32">
+>>>>>>> d63e6bf4448b73a8991ab82a7cdb1e814e259296
 <description>&lt;b&gt;Frequency RF SAW Filter (Sound Acoustic Wave) Bandwidth 5-SMD&lt;b/&gt;</description>
 <gates>
 <gate name="G$1" symbol="B39162B4327P810" x="0" y="0"/>
@@ -1561,11 +1583,18 @@ In this library the device names are the same as the pin names of the symbols, t
 </package3dinstances>
 <technologies>
 <technology name="">
+<<<<<<< HEAD
 <attribute name="DESCRIPTION" value="Low-loss RF GPS + COMPASS + Galileo + GLONASS filter 1582.4 MHz" constant="no"/>
 <attribute name="MFN" value="RF360 Holdings"/>
 <attribute name="MPN" value="B39162B4327P810"/>
 <attribute name="PACKAGE" value="SMD-5 TDK"/>
 <attribute name="PURCHASE-URL" value="https://octopart.com/b39162b4327p810-rf360+holdings-78742154?r=sp"/>
+=======
+<attribute name="MFN" value="TDK"/>
+<attribute name="MPN" value="B39162B4327P810"/>
+<attribute name="PACKAGE" value="SMD-5 TDK"/>
+<attribute name="PURCHASE-URL" value="https://pricing.snapeda.com/search/part/B39162B4327P810/?ref=eda"/>
+>>>>>>> d63e6bf4448b73a8991ab82a7cdb1e814e259296
 </technology>
 </technologies>
 </device>
